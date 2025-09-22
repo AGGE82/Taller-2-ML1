@@ -1,4 +1,5 @@
 # Taller-2-ML1
+# Juan David Sanchez y Alejandro Gil
 Random Forest, SVM, Decision Tree &amp; kNN comparison
 
 
@@ -14,6 +15,7 @@ Tuvo un rendimiento muy bueno, casi igual a los de los demás con un accuracy de
 How much did changing the hyperparameters of SVM and kNN affect their performance?
 
 Falto implementar
+
 Look at the classification report. Are all classes predicted equally well by your best model?
 
 Falto implementar
